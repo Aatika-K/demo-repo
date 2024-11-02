@@ -5,5 +5,5 @@
 # So if a pull request only touches javascript files, only these owners 
 # will be requested for a review.
 
-/Application/   @WamiqSid
+/Application/   
 /InfrastructureAsCode/   @matx104
